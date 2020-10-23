@@ -1,5 +1,5 @@
 body {
-    background-color: #0D1020;
+    background-color: #0D101F;
 }
 
 .img-logo {
@@ -8,6 +8,64 @@ body {
     margin: 0;
 }
 
-#logo {
-    max-width: 1920px;
+/*--- navigation bar ---*/
+.navbar {
+    background:#0D101F;
+}
+
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+
+.nav-link {
+    margin-right: 1em !important;
+}
+
+.nav-link:hover {
+    color: #000;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+#fb-description-container {
+    color: #777AA1;
+    width: 400px;
+    text-align: left;
+}
+
+#top-fb-container {
+    display: block;
+    color: #FFFFFF;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1440px;
+}
+
+#fb-container {
+    display: block;
+    color: #FFFFFF;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1440px;
+}
+
+p {
+    float: left; 
+    margin: 5px; 
+}
+
+p.IBM-Light {
+    font-size: 72px;
+    font-family: 'IBM Plex Sans Light';
+}
+
+p.IBM-SemiBold {
+    font-size: 72px;
+    font-family: 'IBM Plex Sans SemiBold';
 }
