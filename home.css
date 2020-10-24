@@ -1,0 +1,20 @@
+.u-section-1 {background-image: none}
+.u-section-1 .u-sheet-1 {min-height: 1197px}
+.u-section-1 .u-image-1 {width: 1563px; height: 1283px; margin: -404px -457px 0 auto}
+.u-section-1 .u-text-1 {font-size: 0.75rem; font-weight: 600; font-family: "IBM Plex Sans"; margin: -879px 720px 0 10px}
+.u-section-1 .u-text-2 {font-family: "IBM Plex Sans"; font-weight: 300; margin: 70px 71px 60px 30px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-text-1 {width: auto; margin-right: 560px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 505px}
+.u-section-1 .u-image-1 {width: 720px; height: 591px; margin-right: 0}
+.u-section-1 .u-text-1 {margin-top: -187px; margin-right: 350px; margin-left: 0}
+.u-section-1 .u-text-2 {margin-right: 0; margin-left: 0} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 357px}
+.u-section-1 .u-image-1 {width: 540px; height: 443px}
+.u-section-1 .u-text-1 {margin-top: -39px; margin-right: 170px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 193px}
+.u-section-1 .u-image-1 {width: 340px; height: 279px}
+.u-section-1 .u-text-1 {margin-top: 125px; margin-right: 0} }
